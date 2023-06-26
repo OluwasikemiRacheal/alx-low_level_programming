@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 /**
- * main .s this will print out last digit number
+ * main - This will print out last digit number
  *
  * Return: always (0)
  *
